@@ -41,7 +41,7 @@ IT 테스트/품질 경험을 바탕으로 정확하게 검증하고, 더 나은
 
 ## Contact
 
-- GitHub: [@HiImYong99](https://github.com/HiImYong99)
+- Gmail : good19422@gmail.com
 
 ---
 
